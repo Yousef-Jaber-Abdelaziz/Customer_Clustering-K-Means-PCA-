@@ -12,9 +12,11 @@ You own a supermarket mall and, through membership cards, you have some basic da
 ## Problem Statement
 As the mall owner, you want to understand your customers better, specifically identifying those who can be easily targeted (Target Customers). This understanding will help the marketing team devise effective strategies.
 
+## Output Examples
+Here are some output charts generated from the analysis:
 
-## Installation
-To set up the project, you need to install the required Python packages. You can do this using pip. First, ensure you have Python installed, then run the following command in your terminal:
+![Chart 1](path/to/your/output/charts/chart1.png)
+![Chart 2](path/to/your/output/charts/chart2.png)
+![Chart 3](path/to/your/output/charts/chart3.png)
+![Chart 4](path/to/your/output/charts/chart4.png)
 
-```bash
-pip install -r requirements.txt
