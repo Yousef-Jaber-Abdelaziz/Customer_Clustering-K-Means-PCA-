@@ -12,12 +12,6 @@ You own a supermarket mall and, through membership cards, you have some basic da
 ## Problem Statement
 As the mall owner, you want to understand your customers better, specifically identifying those who can be easily targeted (Target Customers). This understanding will help the marketing team devise effective strategies.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Output Examples](#output-examples)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation
 To set up the project, you need to install the required Python packages. You can do this using pip. First, ensure you have Python installed, then run the following command in your terminal:
