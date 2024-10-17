@@ -15,8 +15,8 @@ As the mall owner, you want to understand your customers better, specifically id
 ## Output Examples
 Here are some output charts generated from the analysis:
 
-![Chart 1](path/to/your/output/charts/chart1.png)
-![Chart 2](path/to/your/output/charts/chart2.png)
-![Chart 3](path/to/your/output/charts/chart3.png)
-![Chart 4](path/to/your/output/charts/chart4.png)
+![Chart 1](Customer_CLustering_Kmeans_PCA/Output_charts/elbow_before_PCA.png)
+![Chart 2](Customer_CLustering_Kmeans_PCA/Output_charts/clusters_before_PCA.png)
+![Chart 3](Customer_CLustering_Kmeans_PCA/Output_charts/elbow_after_pca.png)
+![Chart 4](Customer_CLustering_Kmeans_PCA/Output_charts/clustering_plot_after_pca.png)
 
